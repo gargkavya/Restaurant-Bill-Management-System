@@ -97,7 +97,7 @@ CREATE TABLE IF NOT EXISTS `rb_users` (
 --
 
 INSERT INTO `rb_users` (`id`, `name`, `password`, `email`) VALUES
-(1, 'Tech Vegan', '8cb2237d0679ca88db6464eac60da96345513964', 'technologyvegan@gmail.com');
+(1, 'Jim halpert', '2b45651bddab2127a58a27f709db5af2030e6412', 'jimhalpert@gmail.com');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
