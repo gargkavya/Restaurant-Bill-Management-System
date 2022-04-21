@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-image:url(images/bg.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+	margin:0px;
+}
+
+.head
+{
+	font-family:"Trebuchet MS";
+	color:rgba(255,255,255,1.00);
+	font-size:40px;
+}
+
+.Shead
+{
+	font-family:"Segoe UI";
+	color:rgba(255,255,255,1.00);
+	font-size:25px;
+}
+
+#header
+{
+	background-color:rgba(0,0,0,0.4);
+	padding:10px 0px;
+	vertical-align:middle;
+	width:100%;
+}
+
+#boxy
+{	
+	background-color:rgba(0,0,0,0.4);
+	padding:10px 0px;
+	vertical-align:middle;
+	width:50%;
+}
+
+input, select
+{
+	text-align:center;
+	background-color:transparent;
+	border:0px;
+	color:rgba(255,255,255,1.00);
+	font-family:"Segoe UI";
+	font-size:16px;
+	box-shadow:inset 0px 0px 8px rgba(255,255,255,1.00);
+	padding:5px 10px;
+	transition:0.5s;
+}
+
+input:hover
+{
+	text-align:center;
+	background-color:transparent;
+	border:0px;
+	color:rgba(255,255,255,1.00);
+	font-family:"Segoe UI";
+	font-size:16px;
+	box-shadow:0px 0px 8px rgba(255,255,255,1.00);
+	padding:5px 10px;
+	transition:0.5s;
+}
+
+.table
+{	
+	font-family:"Trebuchet MS";
+	font-size:20px;
+	color:rgba(255,255,255,1.00);
+	background-color:rgba(0,0,0,0.4);
+	padding:10px 0px;
+	vertical-align:middle;
+	width:50%;
+}
